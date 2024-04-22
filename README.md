@@ -10,7 +10,7 @@
 
 [Chain of Responsibility](https://github.com/renatog17/chain_of_responsibility)
 
-[Command]()
+[Command](https://github.com/renatog17/command)
 
 [Interpreter]()
 
