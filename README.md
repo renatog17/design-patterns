@@ -8,7 +8,7 @@
 
 [Observer](https://github.com/renatog17/observer)
 
-[Chain of Responsibility]()
+[Chain of Responsibility](https://github.com/renatog17/chain_of_responsibility)
 
 [Command]()
 
