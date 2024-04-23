@@ -12,11 +12,11 @@
 
 [Command](https://github.com/renatog17/command)
 
-[Interpreter]()
+<!--[Interpreter]()
 
-[Iterator]()
+[Iterator]()-->
 
-[Mediator]()
+[Mediator](https://github.com/renatog17/mediator)
 
 [Memento]()
 
